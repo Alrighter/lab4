@@ -17,3 +17,10 @@ C:\Users\roma2\OneDrive - Київський національний торго
 C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\obj\Debug\netcoreapp3.1\lab4.1.csproj.CoreCompileInputs.cache
 C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\obj\Debug\netcoreapp3.1\lab4.1.dll
 C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\obj\Debug\netcoreapp3.1\lab4.1.pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\bin\Debug\netcoreapp3.1\lab4.1.exe
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\bin\Debug\netcoreapp3.1\lab4.1.deps.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\bin\Debug\netcoreapp3.1\lab4.1.runtimeconfig.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\bin\Debug\netcoreapp3.1\lab4.1.runtimeconfig.dev.json
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\bin\Debug\netcoreapp3.1\lab4.1.dll
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\bin\Debug\netcoreapp3.1\lab4.1.pdb
+C:\Users\roma2\OneDrive - Київський національний торговельно-економічний університет\Desktop\lab_4\lab4_1\obj\Debug\netcoreapp3.1\lab4.1.genruntimeconfig.cache

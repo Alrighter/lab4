@@ -18,7 +18,7 @@ namespace lab4_1
             this.model = model;
         }
 
-        public void information(){
+        public override void information(){
             Debug.WriteLine($"Type {this.type.GetType()}: {this.type}");
             Debug.WriteLine($"Marque {this.marque.GetType()}: {this.marque}");
             Debug.WriteLine($"Sits {this.sits.GetType()}: {this.sits}");
